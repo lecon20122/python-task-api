@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "task_state_api/__pycache__": true,
+        "task_state_api/*/__pycache__": true
+    }
+}
