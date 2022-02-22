@@ -1,10 +1,10 @@
 # [Dependecies] 
- flask_sqlalchemy
- flask_marshmallow
- flask
+ flask_sqlalchemy /n
+ flask_marshmallow /n
+ flask /n 
 
 # [Running App]
- starts from app.py code -> [python .\app.py]
+ starts from app.py code -> [python .\app.py] /n
 
 [VSCODE Extentions]
- SQLite
+ SQLite /n
